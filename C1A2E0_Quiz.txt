@@ -1,0 +1,13 @@
+Ｊulia Tzu-Ya Weng, U07487022
+julweng@gmail.com
+C/C++ Programming I : Fundamental Programming Concepts, 119877, Instructor: Raymond Mitchell
+Jan 30, 2017
+C1A2E0_Quiz.txt
+Exercise 0 answers
+
+1. B
+2. C
+3. D
+4. A
+5. A
+6. B
